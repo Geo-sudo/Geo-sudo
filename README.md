@@ -51,13 +51,13 @@ I am an insatiable learner and developer focused on the intersection of **comput
     <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&color=Green" alt="Website">
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/geo-sudo/">
+  <a href="https://lin.geosalib.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
   &emsp;
   <a href="https://blog.geosalib.com">
     <img src="https://img.shields.io/badge/Blog-FF4C00?style=for-the-badge&logoColor=white" alt="Blog">
   </a>
+  
+  > _Ad Astra per Aspera_ 🌌
 </p>
-
-> _Ad Astra per Aspera_ 🌌
