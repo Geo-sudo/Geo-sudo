@@ -36,8 +36,8 @@ I am an insatiable learner and developer focused on the intersection of **comput
 
 ### 📝 Latest from My Blog
 
-<!-- blog starts -->
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Activity
 
