@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_progress=true&langs_count=10&hide=html,css,vue&theme=shadow_green
+          options: username=${{ github.repository_owner }}&layout=compact&hide_progress=true&langs_count=10&hide=html,css,vue&theme=onedark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Geo-sudo&repo=Projects&show_owner=true&show_language_per_repo=true&theme=shadow_green
+          options: username=Geo-sudo&repo=Projects&show_owner=true&show_language_per_repo=true&theme=onedark
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -54,3 +54,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.geosalib.com/index.xml"
+          max_post_count: 4

@@ -41,13 +41,23 @@ I am an insatiable learner and developer focused on the intersection of **comput
 
 ### 📊 GitHub Activity
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&color=Green)](https://geosalib.com)&emsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/geo-sudo/)&emsp;
-[![Blog](https://img.shields.io/badge/Blog-FF4C00?style=for-the-badge&logoColor=white)](https://blog.geosalib.com)
+<p align="center">
+  <a href="https://geosalib.com">
+    <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&color=Green" alt="Website">
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/geo-sudo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">
+  </a>
+  &emsp;
+  <a href="https://blog.geosalib.com">
+    <img src="https://img.shields.io/badge/Blog-FF4C00?style=for-the-badge&logoColor=white" alt="Blog">
+  </a>
+</p>
 
 > _Ad Astra per Aspera_ 🌌
