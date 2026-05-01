@@ -47,8 +47,6 @@ I am an insatiable learner and developer focused on the intersection of **comput
 
 ---
 
-<br>
-
 [![Website](https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&color=Green)](https://geosalib.com)&emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/geo-sudo/)&emsp;
 [![Blog](https://img.shields.io/badge/Blog-FF4C00?style=for-the-badge&logoColor=white)](https://blog.geosalib.com)
