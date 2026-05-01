@@ -41,9 +41,8 @@ I am an insatiable learner and developer focused on the intersection of **comput
 
 ### 📊 GitHub Activity
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
