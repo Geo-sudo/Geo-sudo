@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/yash-raut.jpg" alt="Banner" width="100%"/>
+  <img src="assets/yash-raut.jpg" alt="Banner" width="900" height="300" style="max-width: 100%; height: auto;"/>
 </div>
 
 # George Salib 🌌
