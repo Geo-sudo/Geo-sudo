@@ -37,6 +37,10 @@ I am an insatiable learner and developer focused on the intersection of **comput
 ### 📝 Latest from My Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestial Classifier Trained on SDSS Data using Random Forest](https://blog.geosalib.com/posts/2026/celestial-classifier-rf-sdss17/)
+- [Turn the Other Cheek](https://blog.geosalib.com/posts/2026/turn-the-other-cheek/)
+- [On God&#39;s Appearance](https://blog.geosalib.com/posts/2026/on-god-s-appearance/)
+- [Newtonian Binary Star System Simulation Framework](https://blog.geosalib.com/posts/2024/binary-star-system-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Activity
